@@ -4,6 +4,7 @@
 [[`arXiv`](https://arxiv.org/abs/2203.14333)] [[`BibTeX`](#CitingLIIR)]
 
 ## Updates
+* An [Unofficial implementation](https://github.com/shasha521/LIIR_pytorch) based on Pytorch has been released. Thanks to Beijing Institute of Technology!
 * This repo will release an official PaddlePaddle implementation for paper: Locality-Aware Inter-and Intra-Video Reconstruction for Self-Supervised Correspondence Learning.
 
 ## Abstract
